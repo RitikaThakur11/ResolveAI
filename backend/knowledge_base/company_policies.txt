@@ -1,0 +1,58 @@
+REFUND POLICY
+
+Customers can request a refund within 7 days of delivery.
+
+Products must be unused and returned in their original packaging.
+
+Approved refunds are normally processed within 5–7 business days.
+
+Digital products are excluded from the standard refund policy.
+
+For damaged or defective products, customers should contact support with their order details.
+
+
+SHIPPING POLICY
+
+Standard shipping usually takes 3–5 business days.
+
+Express shipping usually takes 1–2 business days.
+
+Delivery estimates may vary depending on location, carrier delays, and other circumstances.
+
+Customers should provide their order ID when asking for an order status update.
+
+
+CANCELLATION POLICY
+
+Orders can normally be cancelled while their status is Processing.
+
+Orders that have already been shipped cannot normally be cancelled.
+
+After delivery, customers may request a return subject to the refund policy.
+
+
+PAYMENT POLICY
+
+ResolveAI supports standard online payment methods available during checkout.
+
+A payment may occasionally remain pending because of payment-provider processing delays.
+
+If a customer has been charged but does not have a corresponding order, they should contact customer support and provide their transaction information.
+
+
+DAMAGED OR DEFECTIVE PRODUCTS
+
+Customers should contact support if they receive a damaged or defective product.
+
+The customer should provide the order ID and details describing the issue.
+
+Photos or other evidence may be requested to verify the issue.
+
+Depending on the situation, the customer may be eligible for a replacement or refund.
+
+
+ESCALATION POLICY
+
+If ResolveAI cannot confidently answer a customer question using the available company policies or order information, it should escalate the conversation to a human support representative.
+
+ResolveAI must never invent company policies, order information, refund decisions, payment information, delivery commitments, or other unsupported information.

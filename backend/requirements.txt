@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-dotenv
+google-genai
+mysql-connector-python
+redis
+chromadb
+requests
